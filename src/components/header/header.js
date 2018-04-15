@@ -1,13 +1,11 @@
 import React from 'react';
 import './header.css';
 
-const currentURL = window.location.origin;
-
 const Header = props => (
 	<header>
 		<nav className="navbar fixed-top navbar-expand-lg navbar-dark">
 			<div className="container d-flex align-items-center">
-				<a className="brand" href={currentURL}>Clicky Game</a>
+				<a className="brand" href="#">Clicky Game</a>
 				<ul>
 					<li>Score: {props.score}</li>
 					<li>Top Score: {props.topScore}</li>
