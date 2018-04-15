@@ -28,12 +28,14 @@ class App extends React.Component {
 	cardClick = (id, quote) => {
 		// score ++
 		if (this.state.clicked.indexOf(id) === -1) {
+			// set top score
+			if (this.state.score >= this.state.topScore) {
+				this.setState({topScore: this.state.score+1});
+			}
+
 			// update score deck
 			this.setState({score: this.state.score +1});
 			this.setState({clicked: this.state.clicked.concat(id)});
-			if (this.state.score > this.state.topScore) {
-				this.setState({topScore: this.state.score+1});
-			}
 
 			// shuffle cards
 			shuffle(cards);
@@ -41,7 +43,7 @@ class App extends React.Component {
 
 		// game over
 		} else {
-			alert('Wrong anwser. Your\'re dead: ' + quote);
+			alert('Your\'re dead: \n\n' + quote);
 			// reset deck
 			this.setState({score: 0});
 			this.setState({clicked: []});
