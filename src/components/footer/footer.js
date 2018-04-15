@@ -7,6 +7,7 @@ const Footer = () => (
 			<a href="http://chendf.com">© 2018 Daphne Chen</a>
 			<a href="https://github.com/dc220v/Clicky-Memory">GitHub</a>
 		</div>
+		
 	</footer>
 )
 

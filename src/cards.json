@@ -1,22 +1,22 @@
 [
 	{
 		"id":1,
-		"image":"/src/images/crop/001.jpg",
+		"image":"/src/images/cards/001.jpg",
 		"quote":"You're not going to serve. You're going to die."
 	},
 	{
 		"id":2,
-		"image":"/src/images/crop/002.jpg",
+		"image":"/src/images/cards/002.jpg",
 		"quote":"The Lannisters send their regards."
 	},
 	{
 		"id":3,
-		"image":"/src/images/crop/003.jpg",
+		"image":"/src/images/cards/003.jpg",
 		"quote":"Poisoned by our enemies."
 	},
 	{
 		"id":4,
-		"image":"/src/images/crop/004.jpg",
+		"image":"/src/images/cards/004.jpg",
 		"quote":"Chaos isn't a pit. Chaos is a ladder."
 	}
 ]

@@ -2,10 +2,10 @@ import React from 'react';
 
 import Wrapper from './components/wrapper/wrapper.js';
 import Header from './components/header/header.js';
-import CardDiv from './components/cardDiv/cardDiv.js';
+import Card from './components/card/card.js';
 import Footer from './components/footer/footer.js';
 
-import cards from './card.json';
+import cards from './cards.json';
 
 class App extends React.Component {
 	render(){
@@ -18,7 +18,7 @@ class App extends React.Component {
 				<div className="row card-deck">
 
 				{cards.map(card => (
-					<CardDiv image={card.image} key={card.id}/>
+					<Card image={card.image} key={card.id}/>
 				))}
 
 				</div>
