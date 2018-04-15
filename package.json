@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://dc220v.github.io/clicky-game",
+  "homepage":"http://dc220v.github.io/Clicky-Game",
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
