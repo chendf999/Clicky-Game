@@ -12,6 +12,7 @@ header li {
 	display: inline;
 	color: white;
 	padding: 0 15px;
+	font-size: 20px;
 }
 
 header a { padding: 10px; color: white;}
@@ -26,8 +27,8 @@ header .view {
 header .view h1 {
 	color: white;
 	letter-spacing: 5px;
-	margin-top: 180px;
 	font-weight: bold;
+	margin-top: 180px;
 }
 
 header .view h3 {

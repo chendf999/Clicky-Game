@@ -72,31 +72,181 @@
 	{
 		"id":15,
 		"image":"./images/015.jpg",
-		"quote":"You know nothing, Jon Snow."
+		"quote":"Death is so final, whereas life is full of possibilities."
 	},
 	{
 		"id":16,
 		"image":"./images/016.jpg",
-		"quote":"Death is so final, whereas life is full of possibilities."
+		"quote":"This is turning into a lovely evening."
 	},
 	{
 		"id":17,
 		"image":"./images/017.jpg",
-		"quote":"This is turning into a lovely evening."
+		"quote":"Kill the masters."
 	},
 	{
 		"id":18,
 		"image":"./images/018.jpg",
-		"quote":"Kill the masters."
+		"quote":"The law is the law."
 	},
 	{
 		"id":19,
 		"image":"./images/019.jpg",
-		"quote":"The law is the law."
+		"quote":"The white walkers sleep beneath the ice for thousands of years."
 	},
 	{
 		"id":20,
 		"image":"./images/020.jpg",
-		"quote":"The white walkers sleep beneath the ice for thousands of years."
+		"quote":"Let me kill this man for you."
+	},
+	{
+		"id":21,
+		"image":"./images/021.jpg",
+		"quote":"I fought. I lost. Now I rest."
+	},
+	{
+		"id":22,
+		"image":"./images/022.jpg",
+		"quote":"I made my choice long ago."
+	},
+	{
+		"id":23,
+		"image":"./images/023.jpg",
+		"quote":"The long night is coming and the dead come with it."
+	},
+	{
+		"id":24,
+		"image":"./images/024.jpg",
+		"quote":"Ser Ilyn, bring me his head."
+	},
+	{
+		"id":25,
+		"image":"./images/025.jpg",
+		"quote":"Crown for a King."
+	},
+	{
+		"id":26,
+		"image":"./images/026.jpg",
+		"quote":"Stick them with the pointy end."
+	},
+	{
+		"id":27,
+		"image":"./images/027.jpg",
+		"quote":"All cannot die in glory."
+	},
+	{
+		"id":28,
+		"image":"./images/028.jpg",
+		"quote":"Come back to me, my sun and stars."
+	},
+	{
+		"id":29,
+		"image":"./images/029.jpg",
+		"quote":"The night is dark and full of terrors."
+	},
+	{
+		"id":30,
+		"image":"./images/030.jpg",
+		"quote":"We're looking for a bastard."
+	},
+	{
+		"id":31,
+		"image":"./images/031.jpg",
+		"quote":"Three victories don't make you a conqueror."
+	},
+	{
+		"id":32,
+		"image":"./images/032.jpg",
+		"quote":"You can't avenge him if you are dead."
+	},
+	{
+		"id":33,
+		"image":"./images/033.jpg",
+		"quote":"A man needs a name."
+	},
+	{
+		"id":34,
+		"image":"./images/034.jpg",
+		"quote":"Your dragons wait for you in the house of the undying."
+	},
+	{
+		"id":35,
+		"image":"./images/035.jpg",
+		"quote":"Those are brave men knocking at our door... Let's go kill them."
+	},
+	{
+		"id":36,
+		"image":"./images/036.jpg",
+		"quote":"The man who passes the sentence should swing the sword."
+	},
+	{
+		"id":37,
+		"image":"./images/037.jpg",
+		"quote":"He ran, not very fast."
+	},
+	{
+		"id":38,
+		"image":"./images/038.jpg",
+		"quote":"Dark wings, dard words."
+	},
+	{
+		"id":39,
+		"image":"./images/039.jpg",
+		"quote":"He was Jon Arryn's squire. Look how far he's come."
+	},
+	{
+		"id":40,
+		"image":"./images/040.jpg",
+		"quote":"Take him alive. Kill his men."
+	},
+	{
+		"id":41,
+		"image":"./images/041.jpg",
+		"quote":"King Robert Baratheon murdered by a pig."
+	},
+	{
+		"id":42,
+		"image":"./images/042.jpg",
+		"quote":"The cold wings are rising."
+	},
+	{
+		"id":43,
+		"image":"./images/043.jpg",
+		"quote":"Help was not promised, lovely girl. Only death."
+	},
+	{
+		"id":44,
+		"image":"./images/044.jpg",
+		"quote":"This is not my home."
+	},
+	{
+		"id":45,
+		"image":"./images/045.jpg",
+		"quote":"Two hundred northman slaughtered like sheep."
+	},
+	{
+		"id":46,
+		"image":"./images/046.jpg",
+		"quote":"You hear them, boy? The old gods are answering you."
+	},
+	{
+		"id":47,
+		"image":"./images/047.jpg",
+		"quote":"Always the artists."
+	},
+	{
+		"id":48,
+		"image":"./images/048.jpg",
+		"quote":"What good is an empty cup?"
+	},
+	{
+		"id":49,
+		"image":"./images/049.jpg",
+		"quote":"Hodor?"
+	},
+	{
+		"id":50,
+		"image":"./images/050.jpg",
+		"quote":"That was a command not an offer."
 	}
 ]
