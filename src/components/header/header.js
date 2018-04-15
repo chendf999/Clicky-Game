@@ -14,8 +14,8 @@ const Header = () => (
 		</nav>
 
 		<div className="view">
-			<div className="full-bg-img text-center">
-				<h1 className="display-5">Clikcy Game!</h1>
+			<div className="full-bg-img text-center mask rgba-black-light">
+				<h1 className="display-5">VALAR MORGHULIS</h1>
 				<h3 className="h3-responsive">Click on an image to earn points. Don't click the same image twice!</h3>
 			</div>
 		</div>

@@ -1,22 +1,102 @@
 [
 	{
 		"id":1,
-		"image":"/src/images/cards/001.jpg",
+		"image":"./images/001.jpg",
 		"quote":"You're not going to serve. You're going to die."
 	},
 	{
 		"id":2,
-		"image":"/src/images/cards/002.jpg",
+		"image":"./images/002.jpg",
 		"quote":"The Lannisters send their regards."
 	},
 	{
 		"id":3,
-		"image":"/src/images/cards/003.jpg",
+		"image":"./images/003.jpg",
 		"quote":"Poisoned by our enemies."
 	},
 	{
 		"id":4,
-		"image":"/src/images/cards/004.jpg",
+		"image":"./images/004.jpg",
 		"quote":"Chaos isn't a pit. Chaos is a ladder."
+	},
+	{
+		"id":5,
+		"image":"./images/005.jpg",
+		"quote":"You know nothing, Jon Snow."
+	},
+	{
+		"id":6,
+		"image":"./images/006.jpg",
+		"quote":"I'm your son. I have always been your son."
+	},
+	{
+		"id":7,
+		"image":"./images/007.jpg",
+		"quote":"Now his fire has gone out."
+	},
+	{
+		"id":8,
+		"image":"./images/008.jpg",
+		"quote":"I lied for you. I killed for you."
+	},
+	{
+		"id":9,
+		"image":"./images/009.jpg",
+		"quote":"Valar Morghulis."
+	},
+	{
+		"id":10,
+		"image":"./images/010.jpg",
+		"quote":"Fine little blade. Maybe I'll pick my teeth with it."
+	},
+	{
+		"id":11,
+		"image":"./images/011.jpg",
+		"quote":"Weak men will never rule Dorne again."
+	},
+	{
+		"id":12,
+		"image":"./images/012.jpg",
+		"quote":"Go on. Do your duty."
+	},
+	{
+		"id":13,
+		"image":"./images/013.jpg",
+		"quote":"The gods have made their will known."
+	},
+	{
+		"id":14,
+		"image":"./images/014.jpg",
+		"quote":"Our king in the north, or should I call him the king who lost the north?"
+	},
+	{
+		"id":15,
+		"image":"./images/015.jpg",
+		"quote":"You know nothing, Jon Snow."
+	},
+	{
+		"id":16,
+		"image":"./images/016.jpg",
+		"quote":"Death is so final, whereas life is full of possibilities."
+	},
+	{
+		"id":17,
+		"image":"./images/017.jpg",
+		"quote":"This is turning into a lovely evening."
+	},
+	{
+		"id":18,
+		"image":"./images/018.jpg",
+		"quote":"Kill the masters."
+	},
+	{
+		"id":19,
+		"image":"./images/019.jpg",
+		"quote":"The law is the law."
+	},
+	{
+		"id":20,
+		"image":"./images/020.jpg",
+		"quote":"The white walkers sleep beneath the ice for thousands of years."
 	}
 ]

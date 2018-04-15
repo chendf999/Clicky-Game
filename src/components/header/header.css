@@ -18,11 +18,18 @@ header a { padding: 10px; color: white;}
 header a:hover { color: #33b5e5;}
 
 header .view {
-	background: url("../../images/bg.jpg");
+	background: url("./bg.jpg");
+	background-size: cover;
 	height: 400px;
 }
 
 header .view h1 {
+	color: white;
+	letter-spacing: 5px;
 	margin-top: 180px;
 	font-weight: bold;
+}
+
+header .view h3 {
+	color: #ccc;
 }
