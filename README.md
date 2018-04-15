@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Visit the site here:
 http://dc220v.github.io/Clicky-Game
 
-![Screenshot](/public/images/screenshot.png)
+![Screenshot](/public/screenshot.png)
