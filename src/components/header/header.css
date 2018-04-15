@@ -1,0 +1,29 @@
+
+header .navbar {
+	background: linear-gradient(to right, #1c2a48, #2e3951);
+	padding: 0;
+}
+
+header .brand { font-size: 28px;}
+
+header ul { margin: 0;}
+
+header li {
+	list-style-type: none;
+	display: inline;
+	color: white;
+	padding: 0 15px;
+}
+
+header a { padding: 10px; color: white;}
+header a:hover { color: #33b5e5;}
+
+header .view {
+	background: url("../../images/bg.jpg");
+	height: 400px;
+}
+
+header .view h1 {
+	margin-top: 180px;
+	font-weight: bold;
+}
