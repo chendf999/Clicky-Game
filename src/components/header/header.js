@@ -16,7 +16,7 @@ const Header = props => (
 		<div className="view">
 			<div className="full-bg-img text-center mask rgba-black-light">
 				<h1 className="display-5">VALAR MORGHULIS</h1>
-				<h3 className="h3-responsive">Welcome to George R.R. Martin's death list'</h3>
+				<h3 className="h3-responsive">Welcome to George R.R. Martin's death list</h3>
 			</div>
 		</div>
 	</header>
